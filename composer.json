@@ -1,0 +1,14 @@
+{
+    "name": "trabalho/alfa",
+    "authors": [
+        {
+            "name": "Pedro Henrique Alarcon",
+            "email": "pedrohenriquealarcon@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.9",
+        "slim/pdo": "^1.10",
+        "doctrine/orm": "^2.10"
+    }
+}

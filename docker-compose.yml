@@ -17,6 +17,7 @@ service:
     environment:
       - MTSQL_DATABASE=${DATABASE_NAME}
       - MYSQL_ROOT_PASSWORD=${DATABASE_PASS}
+      
   
   api:
     container_name: api
